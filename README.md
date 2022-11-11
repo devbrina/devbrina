@@ -9,9 +9,6 @@
 
 - 🔭 I’m currently working on [Entertainment Z](https://github.com/devbrina/Entertainment-Z)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
