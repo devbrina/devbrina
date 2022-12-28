@@ -1,5 +1,5 @@
 <h1 align="center">hey peoples =D</h1>
-<h3 align="center">ocupada atrás de problemas...</h3>
+<h3 align="center">busy chasing problems...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbrina&label=Visitors&color=41b996&style=flat" alt="devbrina" /> </p>
 
