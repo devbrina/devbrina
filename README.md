@@ -2,9 +2,9 @@
 <h3 align="center">busy chasing problems...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbrina&label=Visitors&color=41b996&style=flat" alt="devbrina" /> </p>
-
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbrina" alt="devbrina" /></a> </p>
-
+ -->
 <p align="left"> <a href="https://twitter.com/academicobrina" target="blank"><img src="https://img.shields.io/twitter/follow/academicobrina?logo=twitter&style=for-the-badge" alt="academicobrina" /></a> </p>
 
 - 🔭 I’m currently working on [Entertainment Z](https://github.com/devbrina/Entertainment-Z)
