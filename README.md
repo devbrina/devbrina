@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://dev.to/brina" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brina" height="30" width="40" /></a>
   <a href="https://twitter.com/academicobrina" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="academicobrina" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sabrinamaria" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrinamaria" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/devbrina" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrinamaria" height="30" width="40" /></a>
   <a href="https://instagram.com/brina.org.br" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brina.org.br" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/academicobrina" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="academicobrina" height="30" width="40" /></a>
   <a href="https://discord.gg/brina.org.br#1662" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brina.org.br#1662" height="30" width="40" /></a>
