@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Brina, desenvolvedora Full Stack Java</h1>
+<h1 align="center"> hi!! i'm sabrina, java learner </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devbrina&label=Visitors&color=41b996&style=flat" alt="devbrina" />
